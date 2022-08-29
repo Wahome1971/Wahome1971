@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wahome2022
+- 👋 Hi, I’m @Wahome1971
 - 👀 I’m interested in Mathematics and Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding
